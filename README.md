@@ -19,3 +19,4 @@ and LLMs
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [little book of linear algebra](https://github.com/little-book-of/linear-algebra)
 - [AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
+- [Applied ML](https://github.com/eugeneyan/applied-ml)
