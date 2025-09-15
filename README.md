@@ -14,9 +14,15 @@ and LLMs
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Writing an LLM from scratch](https://www.gilesthomas.com/2024/12/llm-from-scratch-1)
 - [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [little book of linear algebra](https://github.com/little-book-of/linear-algebra)
 - [AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
 - [Applied ML](https://github.com/eugeneyan/applied-ml)
+
+## Post Training
+
+- [A hitchhiker's guide into LLM post-training](https://tokens-for-thoughts.notion.site/post-training-101)
+- [A Survey of Reinforcement Learning for Large Language Reasoning Models](https://arxiv.org/abs/2509.08827)
