@@ -16,6 +16,7 @@ and LLMs
 - [little book of linear algebra](https://github.com/little-book-of/linear-algebra)
 - [AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
 - [Applied ML](https://github.com/eugeneyan/applied-ml)
+- [Machine Learning Systems](https://www.mlsysbook.ai/)
 
 ## LLMs & Transformsers
 
