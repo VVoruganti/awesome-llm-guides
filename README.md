@@ -12,6 +12,7 @@ and LLMs
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)
 - [Graph Neural Networks from Scratch]
+- [DEEP LEARNING with Python](https://deeplearningwithpython.io/)
 
 - [little book of linear algebra](https://github.com/little-book-of/linear-algebra)
 - [AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
