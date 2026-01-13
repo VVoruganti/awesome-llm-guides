@@ -18,6 +18,9 @@ and LLMs
 - [AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course)
 - [Applied ML](https://github.com/eugeneyan/applied-ml)
 - [Machine Learning Systems](https://www.mlsysbook.ai/)
+- [Building a Neural Network From Scratch with NumPy](https://matthodges.com/posts/2022-08-06-neural-network-from-scratch-python-numpy/)
+- [The Mechanics of Machine Learning](https://mlbook.explained.ai/)
+- [Machine Learning Systems](https://mlsysbook.ai/book/)
 
 ## LLMs & Transformsers
 
